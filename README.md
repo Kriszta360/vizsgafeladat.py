@@ -1,0 +1,1 @@
+# vizsgafeladat.py
